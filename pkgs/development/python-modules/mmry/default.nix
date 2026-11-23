@@ -34,6 +34,6 @@ buildPythonPackage rec {
     description = "Unix disk cache for software 2.0";
     homepage    = "https://github.com/notarealdeveloper/mmry";
     license     = licenses.bsd0;
-    maintainers = with maintainers; [ rskottap ];
+    maintainers = with maintainers; [ churchofcurry ];
   };
 }

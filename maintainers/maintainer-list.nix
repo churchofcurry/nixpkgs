@@ -4674,6 +4674,12 @@
     githubId = 31200881;
     keys = [ { fingerprint = "5D03 A5E6 0754 A3E3 CA57 5037 E838 CED8 1CFF D3F9"; } ];
   };
+  churchofcurry = {
+    name = "Ramya Kottapalli";
+    email = "rskottap@gmail.com";
+    github = "churchofcurry";
+    githubId = 71076624;
+  };
   chvp = {
     email = "nixpkgs@cvpetegem.be";
     matrix = "@charlotte:vanpetegem.me";
@@ -22157,12 +22163,6 @@
     email = "rom.skiad+nix@gmail.com";
     github = "rski";
     githubId = 2960312;
-  };
-  rskottap = {
-    name = "Ramya Kottapalli";
-    email = "rskottap@gmail.com";
-    github = "rskottap";
-    githubId = 71076624;
   };
   rsniezek = {
     email = "radoslaw.sniezek@protonmail.com";
